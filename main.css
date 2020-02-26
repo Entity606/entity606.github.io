@@ -1,0 +1,34 @@
+.navbar {
+    background-color: gray;
+}
+.navbar-toggler {
+    
+    background-color: gray;
+}
+.img-fluid {
+    
+}
+.jumbotron {
+    text-align: center;
+}
+.center {
+    text-align: center;
+    /*margin-left:10%;
+    margin-right: 10%;*/
+}
+.col-sm-8 {
+    background-color: white;
+}
+.col-sm-4 {
+    background-color:floralwhite
+}
+.btn {
+    margin-top:15px;
+}
+.page-footer {
+    background-color: gray;
+}
+h2 {
+    margin:2%;
+    background-color:darkgray;
+}
